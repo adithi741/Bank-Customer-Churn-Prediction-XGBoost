@@ -46,20 +46,24 @@ bank-customer-churn-prediction/
 ├── LICENSE                   # License for the project
 ├── requirements.txt          # Python dependencies
 ├── data/                     # Dataset files
-│   ├── raw_data.csv
 │   ├── processed_data.csv
 ├── notebooks/                # Jupyter notebooks
-│   ├── data_analysis.ipynb
-│   ├── model_training.ipynb
-│   ├── results_visualization.ipynb
+│   ├── Churn_Prediction_usingXGBoost.ipynb
 ├── src/                      # Source code files
 │   ├── data_preprocessing.py
 │   ├── model_training.py
 │   ├── evaluation.py
 ├── images/                   # Visualization images
-│   ├── feature_importance.png
-│   ├── results_plot.png
-└── docs/                     # Documentation files
+│   ├── feature importance_output.png
+│   ├── churn_balance.png
+│   ├── churn_wrt_age_gender.png
+│   ├── churn_wrt_age_geography.png
+│   ├── churn_wrt_geographycount.png
+│   ├── churn_wrt_isactivemember.png
+│   ├── churn_wrt_salary.png
+│   ├── churncount_wrt_geography.png
+│   ├── totalchurn_count.png
+|── docs/                     # Documentation files
     ├── project_report.pdf
     ├── references.md
 ```
