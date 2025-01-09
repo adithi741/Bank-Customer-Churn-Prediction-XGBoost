@@ -1,4 +1,4 @@
-Data Pre-processing :
+Data Pre-Processing :
 
 "Data preprocessing is defined as transforming raw data into a suitable format for training models.
 This involves cleaning, transforming, and splitting the data to improve model accuracy and efficiency."
